@@ -2,7 +2,7 @@ This repository contains a university project. The [assigment](https://github.co
 
 A university (NTUA, School of ECE, Databases course) team project to develop a database and web application for the ELIDEK research institution, enabling the storage and management of data on research departments, researchers, managers, partner institutions, universities, and companies.
 
-Tools used: SQL, Node.js, Express, EJS, CSS, and Dbeaver.
+Tools used: SQL, Node.js, EJS, CSS, and Dbeaver.
 
 ----------------------------------------------------------------------------------------------
 
